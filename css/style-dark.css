@@ -75,7 +75,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Playfair Display", serif;
+  font-family: "Arial", serif;
   color: #fff; }
 
 span {
@@ -859,7 +859,7 @@ header .header-mobile {
     line-height: 1em;
     margin-bottom: 15px; }
     .about-section .about .about-info ul li span.title {
-      font-family: "Playfair Display", serif;
+      font-family: "Arial", serif;
       font-size: 16px;
       font-weight: 700;
       letter-spacing: .5px;
@@ -1340,7 +1340,7 @@ header .header-mobile {
   margin: 0 20px;
   font-size: 18px; }
   .ajax-portfolio-popup .single-work .information li span.title {
-    font-family: "Playfair Display", serif;
+    font-family: "Arial", serif;
     font-size: 18px;
     font-weight: 700; }
 

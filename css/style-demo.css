@@ -91,7 +91,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Playfair Display", serif; }
+  font-family: "Arial", serif; }
 
 body.demo-main {
   font-family: "Roboto", serif;
@@ -114,7 +114,7 @@ header.demo-banner {
     font-size: 30px;
     color: #b1b1b3;
     margin-bottom: 50px;
-    font-family: "Playfair Display", serif; }
+    font-family: "Arial", serif; }
   header.demo-banner .heading a {
     border: 2px solid #ebebec;
     padding: 10px 30px;
